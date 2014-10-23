@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AppDevDbProject</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="AboutButtonText">About</string>
+    <string name="ActivityButtonText">ActivityFeed</string>
+    <string name="DirectoryButtonText">Directory</string>
+    <string name="ServicesButtonText">Services</string>
+    <string name="title_activity_about_">About_Activity</string>
+    <string name="title_activity_activity_feed">ActivityFeedActivity</string>
+    <string name="title_activity_services">ServicesActivity</string>
+    <string name="title_activity_directory">DirectoryActivity</string>
+    <string name="title_activity_about">AboutActivity</string>
+
+</resources>

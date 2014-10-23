@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    tools:context="com.example.appdevdb.HomeActivity">
+ 
+     <Button
+        android:id="@+id/Services"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/About"
+        android:layout_alignParentBottom="true"
+        android:text="@string/ServicesButtonText" 
+        android:background="#880000"/>
+     
+     <Button
+        android:id="@+id/About"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/AboutButtonText" 
+        android:background="#990000"/>
+ <Button
+        android:id="@+id/Directory"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/DirectoryButtonText"
+        android:background="#CC3320"/>  
+<Button
+        android:id="@+id/Activity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/Services"
+        android:text="@string/ActivityButtonText"
+        android:background="#CC0033"/>
+ 
+     
+    
+     
+    
+    
+      
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="26dp"
+            android:src="@drawable/temp_main_back" />
+
+</RelativeLayout>
