@@ -1,0 +1,8 @@
+package com.example.appdevdbproject;
+
+public class GeneralUtils {
+
+	public void addNameToTabs(String[] tabNames , ){
+		
+	}
+}

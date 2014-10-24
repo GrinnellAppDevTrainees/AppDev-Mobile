@@ -1,9 +1,7 @@
 package services;
 
 import com.example.appdevdbproject.R;
-import com.example.appdevdbproject.R.id;
-import com.example.appdevdbproject.R.layout;
-import com.example.appdevdbproject.R.menu;
+
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;

@@ -1,0 +1,15 @@
+package com.example.appdevdbproject;
+
+import android.app.ActionBar;
+
+public class GeneralUtils {
+
+	
+	public void addNameToTabs(String[] tabNames , ActionBar actionBar, ActionBar.TabListener listener){
+		for(String tabName : tabNames){
+			
+		}
+	}//addNameTotabs(String [] , ActionBar, ActionBar.TabListener)
+	
+	
+}

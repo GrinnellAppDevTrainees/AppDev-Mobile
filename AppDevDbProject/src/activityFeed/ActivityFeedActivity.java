@@ -11,6 +11,11 @@ import android.view.MenuItem;
 
 import com.example.appdevdbproject.R;
 
+/**
+ * Implements ActivityFeedActivity
+ * @author Albert Owusu-Asare
+ *@version version 0.1 of October 2014
+ */
 public class ActivityFeedActivity extends FragmentActivity implements
 		ActionBar.TabListener {
 

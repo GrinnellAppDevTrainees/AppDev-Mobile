@@ -17,6 +17,7 @@ public class TabsAdapter extends FragmentPagerAdapter{
 		case 0:
 			// Articles fragment
 			return new Articles();
+			//return new AndroidFragment();
 		case 1:
 			// SocialMedia fragment activity
 			return new SocialMedia();
