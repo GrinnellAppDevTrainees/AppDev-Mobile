@@ -101,13 +101,11 @@ public class ActivityFeedActivity extends FragmentActivity implements
 
 	@Override
 	public void onTabUnselected(Tab tab, FragmentTransaction ft) {
-		// TODO Auto-generated method stub
 
 	}//onTabUnselected
 
 	@Override
 	public void onTabReselected(Tab tab, FragmentTransaction ft) {
-		// TODO Auto-generated method stub
 
 	}//onTabReselected
 }//ActivityFeedActivity
