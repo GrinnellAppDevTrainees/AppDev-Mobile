@@ -1,11 +1,4 @@
-GrinnellAppDevDb
+AppDev Mobile
 ================
 
-AppDevDb is a fun and interactive android mobile application that serves to inform users about new developments at Grinnell Appdev.
-Additionally, with AppDevDb, customers now have the opportunity to quickly sign up for a project. 
-
-The mobile application utilises various social media API such as
-i) Facebook android API
-ii Twitter android API
-
-Developement is still in progress; we are open to ideas and contributions
+What started as a trainee project has evolved into an app representing our entire mobile development group. That's right, Grinnell AppDev is now mobile! Upon completing Android training, my team's first project is to make an app that represents our group as whole. While this app is currently in development, there are many great features in the making. This app will be a directory of all of our members, as well as a means to access all of the talented members in Grinnell AppDev. It will also stay up to date with our activity as group (i.e. apps in progress, hack-o-thons we are attending, publications). In addition, all of the details and history of our group and how we came to be and where we hope to go will be included. A key feature will be the services we offer. Through the app, users will not only be able to file an app request, but apply for training that could result in eventually joining our group! Our goal in making this app is to pave the way for trainees after us in their transition to the group. AppDev is a budding organization and everyone plays a critical role in forging our methods. Most importantly, this app is meant to be a showcase for our work as a group. It only seems fitting that the app representing our mobile development group is exemplary of our capabilities.
