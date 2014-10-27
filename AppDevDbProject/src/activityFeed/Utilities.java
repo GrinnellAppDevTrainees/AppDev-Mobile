@@ -5,7 +5,7 @@ public class Utilities {
 	public  static final String[] articles = { "Grinnell Events", "GrinWell", 
 		"GrinnWell beta","Test GrinWell","Ready for #NSO","Majid Moujaled","FaceTag" };
 	
-	public static final String[] DIALOGUE = 
+	public static final String[] ARTICLE_DETAILS = 
 	    {
 	            "So shaken as we are, so wan with care," +
 	            "Find we a time for frighted peace to pant," +

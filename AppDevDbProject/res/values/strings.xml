@@ -13,7 +13,7 @@
     <string name="title_activity_services">ServicesActivity</string>
     <string name="title_activity_directory">DirectoryActivity</string>
     <string name="title_activity_about">AboutActivity</string>
-       
+
     <string-array name="member_names">
         <item>Michael Owusu</item>
         <item>Amanda Hinchman</item>
@@ -23,5 +23,6 @@
     <string name="error_message"> Error retrieving member data.</string>
     <string name="title_activity_individual_member">IndividualMemberActivity</string>
     <string name="no_items">No items to display!</string>
+    <string name="title_activity_article_detail">ArticleDetailActivity</string>
 
 </resources>

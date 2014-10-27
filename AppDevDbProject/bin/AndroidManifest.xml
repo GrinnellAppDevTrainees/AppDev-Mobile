@@ -7,8 +7,8 @@
     <uses-sdk
         android:minSdkVersion="11"
         android:targetSdkVersion="21" />
-    
-     <!-- Include following permission if you load images from Internet -->
+
+    <!-- Include following permission if you load images from Internet -->
     <uses-permission android:name="android.permission.INTERNET" />
     <!-- Include following permission if you want to cache images on SD card -->
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
@@ -46,6 +46,10 @@
         <activity
             android:name="about.AboutActivity"
             android:label="@string/title_activity_about" >
+        </activity>
+        <activity
+            android:name="activityFeed.ArticleDetailActivity"
+            android:label="@string/title_activity_article_detail" >
         </activity>
     </application>
 
