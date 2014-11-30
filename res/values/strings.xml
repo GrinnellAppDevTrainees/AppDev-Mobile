@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AppDev Directory</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_items">No items to display!</string>
+
+    <string-array name="member_names">
+        <item>Michael Owusu</item>
+        <item>Amanda Hinchman</item>
+    </string-array>
+
+    <string name="error_title">Oops! Sorry!</string>
+    <string name="error_message">There was an error retrieving member data.</string>
+    <string name="title_activity_individual_member">IndividualMemberActivity</string>
+
+</resources>

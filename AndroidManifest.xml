@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.variablevision.appdevdirectory"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="19" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+        <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.appdev.appdevdirectory.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.appdev.appdevdirectory.Services"
+            android:label="@string/app_name" >
+            <intent-filter>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.appdev.appdevdirectory.IndividualMemberActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.appdev.appdevdirectory.DirectoryActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.appdev.appdevdirectory.AndroidFragment"
+            android:label="@string/app_name" >
+            <intent-filter>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.appdev.appdevdirectory.IOSFragment"
+            android:label="@string/app_name" >
+            <intent-filter>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.appdev.appdevdirectory.TraineeFragment"
+            android:label="@string/app_name" >
+            <intent-filter>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.appdev.appdevdirectory.AlumniFragment"
+            android:label="@string/app_name" >
+            <intent-filter>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.appdev.appdevdirectory.ResourceTeamFragment"
+            android:label="@string/app_name" >
+            <intent-filter>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.appdev.appdevdirectory.GitWebViewActivity"
+            android:label="@string/app_name" >
+        </activity>
+                <activity
+            android:name="com.appdev.appdevdirectory.LinkedInWebActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.appdev.appdevdirectory.TwitterWebViewActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.appdev.appdevdirectory.HomePageWebActivity"
+            android:label="@string/app_name" >
+        </activity>
+                <activity
+            android:name="com.appdev.appdevdirectory.TrainReqFragment"
+            android:label="@string/app_name" >
+            <intent-filter>
+            </intent-filter>
+        </activity>
+                <activity
+            android:name="com.appdev.appdevdirectory.AppReqFragment"
+            android:label="@string/app_name" >
+            <intent-filter>
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
